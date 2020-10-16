@@ -27,8 +27,7 @@ prog:   # Words ending with ':' are **labels**
         # Try to keep label names short so they are to the left of instructions
         # It's best not to write instrucions in the same line as a label.
 
-        add	$s0,	$a0,	$zero
-        #li         $s0, 100          # Get value 100 into register $s0. li - load immediate
+	li         $s0, 3206          # Get value 100 into register $s0. li - load immediate
                                      # THIS WILL BE MODIFIED TO LOAD FROM matric
         
         lw         $s1, 0($a1)       # $s1 gets the value of var1. $a1 has the address of var1
