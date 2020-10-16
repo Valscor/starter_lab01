@@ -1,6 +1,7 @@
 
 ## UoI-CSE-MYY505 lab01
 
+<<<<<<< HEAD
 ## Vasilis Gkotsis
 
 **TODO - Update your name in this readme. Leave 1 space after the ## to preserve the text formating**
